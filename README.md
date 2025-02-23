@@ -17,14 +17,13 @@ npm install`
 
 ## 🚀 Usage
 1️⃣ useDebounce Hook
+
 Debounces an input value with a specified delay.
 `import { useDebounce } from "./hooks/useDebounce";
 import { useState } from "react";
-
 function SearchComponent() {
   const [searchTerm, setSearchTerm] = useState("");
   const debouncedSearch = useDebounce(searchTerm, 500);
-
   return (
     <input
       type="text"
@@ -33,8 +32,7 @@ function SearchComponent() {
       placeholder="Search..."
     />
   );
-}
-`
+}`
 2️⃣ useThrottle Hook
 `import { useThrottle } from "./hooks/useThrottle";
 import { useState } from "react";

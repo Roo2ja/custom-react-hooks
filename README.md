@@ -10,10 +10,10 @@ A collection of reusable **custom React hooks** to simplify state management, pe
 ## 📦 Installation
 Clone the repo and install dependencies:
 
-```sh
+`
 git clone https://github.com/your-username/custom-react-hooks.git
 cd custom-react-hooks
-npm install
+npm install`
 
 ## 🚀 Usage
 1️⃣ useDebounce Hook

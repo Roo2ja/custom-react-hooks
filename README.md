@@ -11,7 +11,7 @@ A collection of reusable **custom React hooks** to simplify state management, pe
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/custom-react-hooks.git
+git clone https://github.com/root2ja/custom-react-hooks.git
 cd custom-react-hooks
 npm install
 ```
@@ -96,6 +96,6 @@ Want to add more hooks? Feel free to fork the repo and submit a PR! 😊
 💬 Feel free to open an issue if you have ideas or suggestions.
 
 ## 📩 Connect
-- 💼 [LinkedIn](#)  
-- 🐙 [GitHub](#)
+- 💼 [LinkedIn](https://in.linkedin.com/in/rutuja-b)  
+- 🐙 [GitHub](https://github.com/Roo2ja)
 
